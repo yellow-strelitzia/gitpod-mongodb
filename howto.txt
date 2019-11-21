@@ -1,0 +1,5 @@
+mongo はインストールされている
+mkdir dataして
+mongod --dbpath=./data
+
+別ターミナルにて　mongo で接続
