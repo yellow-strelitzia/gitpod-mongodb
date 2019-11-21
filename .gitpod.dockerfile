@@ -1,3 +1,3 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace-mongodb
 
-RUN npm install -g http-server
+RUN npm install -g http-server mongodb
